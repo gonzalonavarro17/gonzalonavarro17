@@ -1,4 +1,4 @@
-## Hola, soy Gonzalo 👋
+## Hi, I´m Gonzalo 👋
 
 <!--
 **gonzalonavarro17/gonzalonavarro17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
