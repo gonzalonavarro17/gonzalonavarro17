@@ -1,5 +1,5 @@
 ## Hi, I´m Gonzalo 👋👨‍💻
-![me](https://github.com/user-attachments/assets/bf023581-bcd2-4658-a4fa-872dd543da81)
+![me](https://github.com/user-attachments/assets/c09c050d-0442-425d-83f9-70738ac8e682)
 <!--
 **gonzalonavarro17/gonzalonavarro17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
