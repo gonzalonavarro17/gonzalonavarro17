@@ -1,6 +1,6 @@
 ## Hi, I´m Gonzalo 👋👨‍💻
 ![me](https://github.com/user-attachments/assets/c09c050d-0442-425d-83f9-70738ac8e682)
-[![gonzalonavarro17's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalonavarro17)]
+![gonzalonavarro17's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalonavarro17)
 
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate frontend developer from Madrid, Spain</h3>
